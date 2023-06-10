@@ -25,7 +25,7 @@ After performing the functions display the remaining balance of the user.
 
                               Developed by : RAJESHKANNAN.M
                               Register No : 212221230081
-
+```
 using System;
 namespace Hello
 {
@@ -77,7 +77,7 @@ namespace Hello
     }
 }
 
-
+```
 ### Output:
 ![OP](https://raw.githubusercontent.com/SOWMIYA2003/Interface/main/aa1.png)
 ![OP](https://raw.githubusercontent.com/SOWMIYA2003/Interface/main/aa12.png)
