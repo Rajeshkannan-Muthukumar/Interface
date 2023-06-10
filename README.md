@@ -1,29 +1,30 @@
-Interface
-Aim:
+#Interface
+### Aim:
 To write a C# program using interface concept.
 
-Algorithm:
-Step 1 :
+### Algorithm:
+#### Step 1 :
 Create an interface.
 
-Step 2 :
+#### Step 2 :
 Create a child class.
 
-Step 3 :
+ #### Step 3 :
 Declare two functions deposit() and withdrawal() in the interface.
 
-Step 4 :
+#### Step 4 :
 Create those two functions in the child class and perform respective operation.
 
-Step 5 :
+#### Step 5 :
 Use if else loop to Get the choice from the user whether to perform withdrawal or deposit operation.
 
-Step 6 :
+#### Step 6 :
 After performing the functions display the remaining balance of the user.
 
-Program:
-Developed by : RAJESHKANNAN.M
-Register No : 212221230081
+### Program:
+
+                              Developed by : RAJESHKANNAN.M
+                              Register No : 212221230081
 
 using System;
 namespace Hello
